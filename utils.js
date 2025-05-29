@@ -53,8 +53,29 @@ const battlefieldData =
                     ]
                 }
             ]
+        },
+        {
+            "type": "maps",
+            "data": [
+                { "title": "dawnbreaker" },
+                { "title": "propaganda" },
+                { "title": "operation locker" },
+                { "title": "lancang dam" },
+                { "title": "seige of shanghai" },
+                { "title": "golmud railway" },
+                { "title": "propaganda" },
+                { "title": "siege of shanghai" },
+                { "title": "dawnbreaker" },
+                { "title": "propaganda" },
+                { "title": "operation locker" },
+                { "title": "lancang dam" },
+                { "title": "siege of shangai" },
+                { "title": "golmud railway" },
+                { "title": "propaganda" },
+                { "title": "seige of shanghai" }
+            ]
         }
 
     ]
 
-module.exports = {battlefieldData}
+module.exports = { battlefieldData }
